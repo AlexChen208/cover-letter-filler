@@ -80,7 +80,7 @@ const Form = () => {
             width={50}
             height={50}
             alt='Resume'
-            onClick={() => {window.open('https://docs.google.com/document/d/1LM_Hz2m28VGCOngrLICo3YGfYHbV4m5m/edit?usp=sharing&ouid=115494204022278364318&rtpof=true&sd=true')}}
+            onClick={() => {window.open('https://docs.google.com/document/d/15e3KoduVmc__nxI6cEZ4isIM8FzJMTyJ9Vxo3Gs68zs/edit')}}
             />
         </IconButton>
       </Tooltip>
@@ -95,7 +95,7 @@ const Form = () => {
             width={50}
             height={50}
             alt='Copy'
-            onClick={() => {navigator.clipboard.writeText('alex.chen8991@gmail.com')}}
+            onClick={() => {navigator.clipboard.writeText('jacky.chen0319@gmail.com')}}
           />
         </IconButton>
       </Tooltip>
@@ -110,7 +110,7 @@ const Form = () => {
             width={50}
             height={50}
             alt='LinkedIn'
-            onClick={() => {navigator.clipboard.writeText('https://www.linkedin.com/in/alextchen207')}}
+            onClick={() => {navigator.clipboard.writeText('https://www.linkedin.com/in/chen-jacky')}}
             />
         </IconButton>
       </Tooltip>
@@ -125,7 +125,7 @@ const Form = () => {
             width={50}
             height={50}
             alt='Github'
-            onClick={() => {navigator.clipboard.writeText('https://github.com/AlexChen208')}}
+            onClick={() => {navigator.clipboard.writeText('https://github.com/jackychen19')}}
             />
         </IconButton>
       </Tooltip>
@@ -149,7 +149,7 @@ const Form = () => {
 
         Dear Hiring Manager,<br/><br/>
 
-        My name is Alex Chen and I am a Full Stack Software Engineer with a marketing and entrepreneurship background. I am applying for the {position} position that I learned about from {event}. I believe that I am a strong fit for {company}’s unique culture and would bring to the company my technical and interpersonal competence.<br/><br/>
+        My name is Jacky Chen and I am a Full Stack Software Engineer with a marketing and entrepreneurship background. I am applying for the {position} position that I learned about from {event}. I believe that I am a strong fit for {company}’s unique culture and would bring to the company my technical and interpersonal competence.<br/><br/>
 
         This past summer, I attended an advanced software engineering immersive, where I refined my technical and soft skills. During this program, I worked with teams of 3-6 people on full-stack web applications, each with a one-week deadline. To meet tight deadlines, I cultivated a growth mindset and researched numerous technologies, quickly learning how to implement new tools including various frameworks, databases, and DevOps. These projects refined my decision-making skills and problem-solving process, as I accurately diagnosed issues and proactively made informed decisions to find the optimal solution. Furthermore, I practiced Agile methodology to keep track of deliverables. This facilitated transparency within my teams and promoted accountability for each of our responsibilities, which allowed me to communicate to team members with ease and complete my tasks in a timely manner. My ability to think critically and work well in a team will contribute to the cohesiveness of {company}’s development team.<br/><br/>
 
@@ -158,7 +158,7 @@ const Form = () => {
         It would truly be a privilege to receive an opportunity to work as a {position} at {company} as I believe it is a great opportunity for me to utilize and strengthen my current skills. Thank you for your time and consideration for reviewing this application, and I look forward to hearing from you soon!<br/><br/>
 
         Sincerely,<br/><br/>
-        Alex Chen
+        Jacky Chen
         </p>
       </Paper>
 
