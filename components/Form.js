@@ -65,7 +65,7 @@ const Form = () => {
             width={50}
             height={50}
             alt='Google Docs'
-            onClick={() => {window.open('https://docs.google.com/document/d/1ssnDs7m48hGJoZR5c0019wNGgJxD1E1VnfgVuWeofaM/edit')}}
+            onClick={() => {window.open('https://docs.google.com/document/d/1pmeDCiAl1s6bGtzDrC-j7fz34Q4ifYZsu33BjoeKd-g/edit?usp=sharing')}}
             />
         </IconButton>
       </Tooltip>
